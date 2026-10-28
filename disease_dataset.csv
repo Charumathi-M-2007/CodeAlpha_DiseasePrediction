@@ -1,0 +1,301 @@
+fever,cough,headache,fatigue,sore_throat,body_pain,disease
+0,0,1,1,0,0,Allergy
+0,1,1,0,1,1,Allergy
+0,1,0,1,0,0,Common Cold
+0,0,0,0,0,0,Allergy
+0,1,0,1,0,0,Allergy
+1,1,1,0,0,0,Common Cold
+0,1,1,0,0,0,Allergy
+0,1,0,0,1,0,Common Cold
+1,1,1,0,0,0,Common Cold
+1,0,1,1,0,1,Flu-like Illness
+1,0,0,1,0,1,Flu-like Illness
+0,1,1,1,0,0,Allergy
+1,1,1,0,0,1,Flu-like Illness
+1,1,1,1,0,1,Flu-like Illness
+1,0,0,0,1,0,Flu-like Illness
+1,1,1,1,1,0,Flu-like Illness
+0,1,0,0,0,0,Allergy
+0,1,0,0,0,0,Common Cold
+0,1,1,0,0,0,Common Cold
+0,1,0,0,1,0,Common Cold
+0,0,1,1,1,1,Flu-like Illness
+0,0,0,1,1,0,Flu-like Illness
+1,1,1,0,0,1,Flu-like Illness
+0,1,1,0,1,1,Common Cold
+0,1,0,1,0,1,Allergy
+0,1,1,1,0,1,Flu-like Illness
+0,1,0,0,1,0,Common Cold
+1,1,1,0,1,0,Common Cold
+0,1,0,1,0,0,Allergy
+1,1,0,1,1,1,Flu-like Illness
+1,1,0,0,1,0,Common Cold
+0,1,1,0,0,0,Allergy
+0,0,1,0,0,0,Allergy
+0,0,0,1,0,0,Allergy
+1,1,1,1,1,0,Common Cold
+0,0,1,0,0,0,Allergy
+1,0,0,1,1,1,Flu-like Illness
+1,1,1,1,0,1,Flu-like Illness
+0,0,0,0,1,1,Allergy
+0,1,1,0,1,1,Common Cold
+1,0,1,1,0,1,Flu-like Illness
+1,1,0,1,1,0,Common Cold
+1,1,0,0,0,0,Common Cold
+0,0,1,1,1,0,Common Cold
+1,1,0,1,1,0,Common Cold
+1,1,0,1,1,0,Flu-like Illness
+1,1,0,1,0,1,Flu-like Illness
+0,1,1,1,1,0,Common Cold
+1,0,0,0,1,1,Flu-like Illness
+1,1,1,1,0,1,Flu-like Illness
+0,0,0,0,0,1,Flu-like Illness
+1,0,1,1,0,1,Flu-like Illness
+0,1,1,0,0,1,Allergy
+1,1,1,1,1,1,Flu-like Illness
+0,1,0,0,1,1,Allergy
+0,1,0,0,0,0,Allergy
+0,1,0,1,1,0,Flu-like Illness
+0,1,0,0,1,0,Common Cold
+1,0,0,1,1,1,Flu-like Illness
+0,1,1,1,0,0,Common Cold
+0,0,1,1,1,0,Allergy
+0,0,1,1,0,1,Allergy
+1,1,1,0,0,0,Allergy
+0,1,1,0,1,1,Allergy
+0,1,1,0,0,0,Common Cold
+1,1,1,0,0,0,Common Cold
+0,0,0,1,0,0,Allergy
+1,1,1,1,0,1,Flu-like Illness
+1,1,0,0,0,0,Common Cold
+0,0,0,1,1,0,Common Cold
+0,1,0,1,1,1,Common Cold
+1,0,1,1,1,0,Flu-like Illness
+0,0,0,0,0,1,Allergy
+0,1,0,0,1,1,Common Cold
+1,0,1,1,1,0,Flu-like Illness
+1,0,0,1,0,1,Flu-like Illness
+0,0,1,1,1,1,Flu-like Illness
+1,1,0,0,1,1,Common Cold
+0,1,0,1,1,1,Allergy
+0,0,0,0,1,0,Common Cold
+1,1,1,1,1,1,Flu-like Illness
+0,1,0,0,1,1,Common Cold
+0,0,0,1,1,0,Common Cold
+1,1,1,1,0,0,Flu-like Illness
+0,1,1,1,0,1,Allergy
+0,1,0,1,1,0,Common Cold
+0,1,1,1,0,1,Allergy
+1,0,0,1,1,0,Common Cold
+0,0,0,0,0,0,Allergy
+1,0,1,0,0,0,Flu-like Illness
+1,0,0,1,1,1,Flu-like Illness
+0,1,0,0,1,0,Common Cold
+0,0,0,0,1,0,Allergy
+0,0,0,0,0,0,Allergy
+1,0,0,1,1,0,Common Cold
+0,1,0,0,0,0,Allergy
+0,1,0,1,0,0,Common Cold
+1,1,1,0,1,1,Flu-like Illness
+1,0,0,1,1,1,Flu-like Illness
+1,1,0,0,0,0,Allergy
+0,1,0,1,0,0,Common Cold
+1,0,0,1,1,1,Flu-like Illness
+1,1,1,1,1,1,Flu-like Illness
+1,0,0,1,1,1,Flu-like Illness
+0,1,0,1,1,0,Allergy
+0,0,0,0,1,0,Allergy
+0,0,0,0,1,0,Common Cold
+0,1,1,1,0,0,Allergy
+1,0,1,1,0,1,Flu-like Illness
+0,0,0,0,1,0,Allergy
+1,1,0,1,1,1,Common Cold
+0,1,0,1,0,0,Allergy
+0,1,0,0,1,0,Common Cold
+0,1,0,1,1,1,Common Cold
+1,1,1,0,0,1,Common Cold
+1,0,1,0,1,0,Flu-like Illness
+0,0,0,1,0,0,Allergy
+0,1,0,1,1,0,Allergy
+0,1,1,0,1,0,Common Cold
+1,1,1,0,1,1,Flu-like Illness
+1,0,1,1,0,1,Flu-like Illness
+1,0,0,1,1,0,Flu-like Illness
+1,0,0,1,0,1,Flu-like Illness
+1,0,0,0,1,1,Common Cold
+0,1,1,1,0,1,Common Cold
+0,1,0,1,1,0,Common Cold
+0,1,0,1,1,0,Common Cold
+0,1,0,1,0,1,Common Cold
+0,0,0,1,0,1,Allergy
+0,1,0,1,0,0,Allergy
+1,0,0,0,1,0,Common Cold
+0,0,0,0,0,0,Allergy
+1,0,0,1,1,1,Flu-like Illness
+0,1,0,0,0,1,Flu-like Illness
+1,1,0,0,0,1,Common Cold
+0,1,1,0,1,0,Allergy
+1,1,0,0,1,0,Common Cold
+1,1,0,1,0,1,Flu-like Illness
+1,0,1,1,0,0,Flu-like Illness
+1,1,0,0,1,0,Common Cold
+0,0,0,0,1,0,Common Cold
+1,1,1,1,0,0,Flu-like Illness
+1,0,1,1,1,1,Flu-like Illness
+1,1,0,1,0,0,Common Cold
+0,0,1,0,1,0,Allergy
+1,1,1,1,1,0,Flu-like Illness
+1,1,0,1,1,1,Flu-like Illness
+0,1,0,0,0,0,Allergy
+0,0,0,0,0,1,Allergy
+0,1,0,1,0,1,Common Cold
+0,0,1,1,0,0,Allergy
+1,1,0,1,0,1,Flu-like Illness
+1,0,1,1,1,1,Flu-like Illness
+0,1,0,1,1,1,Allergy
+1,0,0,1,1,0,Common Cold
+0,0,1,1,0,0,Allergy
+0,1,1,0,0,1,Allergy
+1,1,0,1,0,0,Common Cold
+1,1,1,0,1,0,Common Cold
+1,1,0,1,0,1,Flu-like Illness
+1,0,1,1,1,1,Flu-like Illness
+0,0,1,1,0,1,Flu-like Illness
+1,1,0,0,1,1,Allergy
+1,1,1,0,0,1,Allergy
+0,1,0,0,0,0,Common Cold
+0,1,1,0,0,0,Allergy
+0,0,1,1,0,1,Flu-like Illness
+0,1,0,1,1,0,Common Cold
+0,0,0,1,0,0,Allergy
+1,0,1,1,0,1,Flu-like Illness
+0,1,0,1,1,0,Common Cold
+1,1,1,1,1,1,Flu-like Illness
+1,1,1,1,0,0,Flu-like Illness
+1,1,1,1,1,0,Flu-like Illness
+1,0,1,0,1,0,Allergy
+0,1,1,1,0,0,Allergy
+0,1,0,0,0,1,Common Cold
+0,0,0,1,1,0,Common Cold
+0,1,1,0,0,1,Flu-like Illness
+1,1,0,0,1,1,Common Cold
+1,1,0,1,0,0,Allergy
+0,1,0,0,0,0,Common Cold
+0,1,1,1,0,1,Flu-like Illness
+0,1,0,1,0,0,Allergy
+1,1,1,1,0,1,Flu-like Illness
+1,1,0,0,1,0,Common Cold
+0,1,0,0,0,0,Allergy
+0,1,1,0,0,1,Allergy
+0,0,0,1,0,0,Allergy
+1,0,0,1,0,1,Flu-like Illness
+1,0,0,1,0,1,Allergy
+0,1,1,1,0,0,Common Cold
+1,1,0,1,1,1,Flu-like Illness
+1,1,0,1,1,0,Common Cold
+0,0,0,1,1,1,Flu-like Illness
+0,1,1,0,1,0,Common Cold
+0,1,1,1,1,1,Flu-like Illness
+0,1,0,1,1,1,Common Cold
+0,1,1,0,0,0,Allergy
+1,1,0,1,1,1,Flu-like Illness
+1,0,1,1,0,1,Flu-like Illness
+1,0,1,1,0,1,Flu-like Illness
+0,1,1,1,0,0,Allergy
+1,0,1,1,1,1,Common Cold
+0,1,0,1,0,0,Common Cold
+0,1,1,0,0,1,Allergy
+0,0,0,0,0,0,Allergy
+1,1,0,0,1,0,Common Cold
+0,0,1,0,0,0,Allergy
+1,0,1,1,0,1,Flu-like Illness
+0,1,0,1,0,0,Common Cold
+1,0,1,1,1,1,Flu-like Illness
+0,0,0,0,0,0,Allergy
+0,0,0,1,1,0,Common Cold
+0,1,0,1,0,0,Common Cold
+1,0,1,1,1,0,Flu-like Illness
+0,1,0,1,1,0,Common Cold
+1,1,0,1,1,1,Flu-like Illness
+0,1,1,1,1,0,Common Cold
+1,1,0,1,0,1,Flu-like Illness
+0,0,0,0,1,1,Common Cold
+1,1,1,1,0,1,Flu-like Illness
+0,1,1,0,1,0,Common Cold
+0,0,0,0,1,0,Common Cold
+1,0,0,1,0,1,Flu-like Illness
+0,1,0,1,1,1,Common Cold
+1,0,0,1,0,1,Flu-like Illness
+0,1,1,1,0,0,Allergy
+0,0,1,1,0,0,Allergy
+1,0,1,1,0,1,Flu-like Illness
+0,1,0,1,0,1,Allergy
+0,0,0,0,1,1,Common Cold
+1,0,1,1,1,1,Flu-like Illness
+1,1,1,1,1,1,Flu-like Illness
+1,0,0,1,1,1,Flu-like Illness
+0,0,1,0,0,0,Allergy
+0,1,0,1,1,0,Common Cold
+0,0,0,1,1,1,Flu-like Illness
+1,0,1,0,1,1,Flu-like Illness
+0,1,0,0,1,0,Common Cold
+0,1,0,0,1,0,Common Cold
+1,0,0,1,0,1,Flu-like Illness
+0,0,0,1,0,0,Allergy
+0,1,0,1,1,0,Common Cold
+0,1,0,1,0,0,Common Cold
+0,1,0,0,1,0,Common Cold
+0,1,0,1,1,0,Common Cold
+1,0,0,1,1,1,Flu-like Illness
+0,0,0,0,1,0,Common Cold
+1,1,0,0,1,0,Common Cold
+0,1,0,1,0,0,Allergy
+0,1,0,1,1,1,Flu-like Illness
+0,0,0,0,0,0,Allergy
+0,1,0,1,1,0,Common Cold
+1,1,0,1,1,0,Common Cold
+0,0,0,1,1,1,Common Cold
+1,1,0,1,0,0,Flu-like Illness
+0,0,0,1,1,0,Common Cold
+0,1,0,0,0,0,Allergy
+0,0,0,1,1,0,Common Cold
+1,0,1,1,0,0,Flu-like Illness
+0,0,0,0,1,0,Allergy
+1,1,0,0,1,0,Common Cold
+0,1,0,0,0,1,Allergy
+0,0,0,0,1,0,Common Cold
+0,0,1,0,0,1,Allergy
+1,0,1,1,1,1,Flu-like Illness
+1,1,0,1,1,1,Flu-like Illness
+1,0,0,1,0,1,Flu-like Illness
+0,0,1,1,0,0,Allergy
+1,1,1,0,0,1,Flu-like Illness
+0,1,1,1,1,0,Common Cold
+0,1,1,0,0,0,Common Cold
+1,1,1,1,0,0,Flu-like Illness
+0,0,1,0,1,0,Common Cold
+1,1,0,1,1,0,Allergy
+0,0,0,0,0,0,Allergy
+0,1,0,0,0,1,Common Cold
+1,1,1,1,1,1,Flu-like Illness
+1,1,1,1,0,0,Flu-like Illness
+1,1,0,1,0,0,Common Cold
+1,0,0,0,0,0,Allergy
+1,0,1,1,1,1,Flu-like Illness
+0,0,0,1,1,1,Flu-like Illness
+0,1,0,1,0,0,Allergy
+0,0,0,1,1,1,Allergy
+0,1,1,1,1,1,Flu-like Illness
+1,1,0,0,1,1,Common Cold
+0,1,0,0,0,0,Allergy
+1,0,1,1,1,0,Flu-like Illness
+0,1,0,1,1,0,Common Cold
+0,0,0,0,0,0,Allergy
+0,1,0,0,0,0,Allergy
+0,1,1,1,1,0,Allergy
+1,0,0,1,1,1,Flu-like Illness
+0,1,0,0,0,0,Allergy
+1,1,1,1,1,0,Flu-like Illness
+0,1,1,0,1,0,Allergy
+1,1,0,1,1,1,Flu-like Illness
+0,1,0,0,1,0,Common Cold
